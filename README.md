@@ -4,6 +4,7 @@ This is a web application that uses the OpenWeatherMap API to retrieve the forec
 
 ## Usage
 -Clone the repository or otherwise travel to the index.html
+
 -Input your desired city and click "Search" to populate the dashboard with the current weather and 5 day forecast
 
 ![screengrab](/Screenshot.png)
